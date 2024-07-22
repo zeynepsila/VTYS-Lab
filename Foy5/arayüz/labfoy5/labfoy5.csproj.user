@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\ekran1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\ekran2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\ekran3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\dersatama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\dersdegistirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\derssilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\ekrann4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\ekran5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ekranlar\ekran6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
